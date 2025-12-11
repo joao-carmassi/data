@@ -1,0 +1,30 @@
+{
+  "title": "Cybersecurity Essentials for Modern Applications",
+  "date": "3 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-6.svg",
+    "alt": "Cybersecurity shield"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Security Practices",
+      "markdown": "Essential security practices every developer should implement, from authentication and authorization to data encryption and secure coding practices."
+    },
+    {
+      "id": "section2",
+      "title": "Checklist",
+      "markdown": "- Authentication\n- Authorization\n- Encryption\n- Secure coding"
+    },
+    {
+      "id": "section3",
+      "title": "Vulnerabilities Table",
+      "markdown": "### Common Vulnerabilities\n\n| Vulnerability | Risk Level | Example         |\n|--------------|-----------|-----------------|\n| XSS          | High      | <script> tag    |\n| SQLi         | High      | ' OR 1=1 --     |\n| CSRF         | Medium    | Forged requests |\n\n![Security](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-6.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Hashing Passwords\n\n```js\nconst bcrypt = require('bcrypt');\nconst hash = await bcrypt.hash('password', 10);\n```\n\n- [Node.js Security Handbook](https://nodejs.org/en/security/)\n- [Awesome Security](https://github.com/sbilly/awesome-security)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Future of Web Development: What's Next in 2024",
+  "date": "15 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+    "alt": "Web development futuristic illustration"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Overview",
+      "markdown": "Explore the latest trends in web development, from AI-powered tools to new frameworks that are reshaping how we build the web. Discover what developers need to know to stay ahead."
+    },
+    {
+      "id": "section2",
+      "title": "Key Trends",
+      "markdown": "- AI-powered development\n- New frameworks\n- Developer best practices in 2024"
+    },
+    {
+      "id": "section3",
+      "title": "Framework Comparison",
+      "markdown": "### Popular Frameworks\n\n| Framework | Type      | Popularity |\n|-----------|-----------|------------|\n| React     | Frontend  | ★★★★★      |\n| Next.js   | Fullstack | ★★★★☆      |\n| Svelte    | Frontend  | ★★★★☆      |\n\n![Frameworks](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: React Component\n\n```tsx\nimport { useState } from 'react';\nconst Hello = () => {\n  const [msg, setMsg] = useState('Hello World');\n  return <div>{msg}</div>;\n};\n```\n\n- [Official React Docs](https://react.dev)\n- [Awesome Web Dev](https://github.com/awesome-webdev)"
+    }
+  ]
+}

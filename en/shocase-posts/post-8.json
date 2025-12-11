@@ -1,0 +1,30 @@
+{
+  "title": "DevOps Culture: Building Better Software Delivery Pipelines",
+  "date": "29 Dec 2023",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg",
+    "alt": "DevOps pipeline illustration"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "DevOps in Practice",
+      "markdown": "How to foster a DevOps culture in your organization and implement CI/CD pipelines that accelerate development while maintaining quality."
+    },
+    {
+      "id": "section2",
+      "title": "Pipeline Steps",
+      "markdown": "- CI/CD\n- Automation\n- Quality assurance"
+    },
+    {
+      "id": "section3",
+      "title": "DevOps Table",
+      "markdown": "### Pipeline Stages\n\n| Stage      | Tool        | Purpose         |\n|------------|------------|-----------------|\n| Build      | Jenkins    | Compile code    |\n| Test       | Jest       | Ensure quality  |\n| Deploy     | Docker     | Release         |\n\n![DevOps](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: GitHub Actions\n\n```yaml\nname: CI\non: [push]\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v2\n      - name: Run tests\n        run: npm test\n```\n\n- [GitHub Actions Docs](https://docs.github.com/en/actions)\n- [Awesome DevOps](https://github.com/ligurio/awesome-devops)"
+    }
+  ]
+}

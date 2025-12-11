@@ -1,0 +1,30 @@
+{
+  "title": "Mobile App Development: Native vs Cross-Platform Solutions",
+  "date": "27 Dec 2023",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg",
+    "alt": "Mobile app development comparison"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Native vs Cross-Platform",
+      "markdown": "# Mobile App Development\n\nCompare native and cross-platform development approaches, exploring the trade-offs between performance, development speed, and user experience.\n\n> \"Choose the right tool for your team.\"\n\n[Mobile Dev Guide](https://developer.android.com/guide)"
+    },
+    {
+      "id": "section2",
+      "title": "Comparison Table",
+      "markdown": "## Comparison\n\n| Approach        | Performance | Speed | UX         |\n|----------------|-------------|-------|------------|\n| Native         | High        | Slow  | Excellent  |\n| Cross-Platform | Medium      | Fast  | Good       |\n\n:::alert\n**Note:** Consider your audience!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Popular Frameworks",
+      "markdown": "### Frameworks\n\n- React Native\n- Flutter\n- Xamarin\n\n![Mobile Frameworks](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: React Native\n\n```jsx\nimport { Text, View } from 'react-native';\nexport default function App() {\n  return <View><Text>Hello Mobile!</Text></View>;\n}\n```\n\n- [React Native Docs](https://reactnative.dev)\n- [Awesome Mobile](https://github.com/jondot/awesome-react-native)"
+    }
+  ]
+}

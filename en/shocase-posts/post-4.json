@@ -1,0 +1,30 @@
+{
+  "title": "Machine Learning in Production: Best Practices for Deployment",
+  "date": "8 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-4.svg",
+    "alt": "Machine learning deployment"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Deployment Essentials",
+      "markdown": "# Machine Learning in Production\n\nFrom model versioning to monitoring and scaling, learn the essential practices for deploying machine learning models in production environments.\n\n> \"Deployment is as important as model accuracy.\"\n\n[ML Deployment Guide](https://mlops.community)"
+    },
+    {
+      "id": "section2",
+      "title": "Best Practices",
+      "markdown": "## Best Practices\n\n- Model versioning\n- Monitoring\n- Scaling\n\n:::alert\n**Warning:** Always monitor your models!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Deployment Table",
+      "markdown": "### Deployment Options\n\n| Option     | Use Case         | Complexity |\n|------------|------------------|------------|\n| Docker     | Containerization | Medium     |\n| K8s        | Orchestration    | High       |\n| Serverless | On-demand        | Medium     |\n\n![ML Deployment](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-4.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Model Serving\n\n```python\nfrom flask import Flask\napp = Flask(__name__)\n@app.route('/')\ndef serve():\n    return 'Model served!'\n```\n\n- [Flask Docs](https://flask.palletsprojects.com)\n- [Awesome MLOps](https://github.com/visenger/awesome-mlops)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Performance Optimization: Techniques for Faster Web Applications",
+  "date": "1 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+    "alt": "Performance optimization graph"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Optimization Techniques",
+      "markdown": "# Performance Optimization\n\nAdvanced techniques for optimizing web application performance, including code splitting, lazy loading, and modern caching strategies.\n\n> \"Performance is a feature.\"\n\n[Web Performance Checklist](https://web.dev/performance/)"
+    },
+    {
+      "id": "section2",
+      "title": "Key Methods",
+      "markdown": "## Methods\n\n- Code splitting\n- Lazy loading\n- Caching\n\n:::alert\n**Tip:** Measure before you optimize!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Performance Table",
+      "markdown": "### Optimization Techniques\n\n| Technique      | Benefit         | Complexity |\n|---------------|-----------------|------------|\n| Code splitting| Faster loads    | Medium     |\n| Lazy loading  | Less bandwidth  | Low        |\n| Caching       | Quick response  | Medium     |\n\n![Performance](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Dynamic Import\n\n```js\nconst Comp = React.lazy(() => import('./Comp'))\n```\n\n- [React Performance](https://react.dev/learn/optimizing-performance)\n- [Awesome Performance](https://github.com/davidsonfellipe/awesome-wpo)"
+    }
+  ]
+}

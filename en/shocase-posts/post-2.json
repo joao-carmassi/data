@@ -1,0 +1,30 @@
+{
+  "title": "Building Scalable APIs with Modern Architecture Patterns",
+  "date": "12 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg",
+    "alt": "API architecture diagram"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Introduction",
+      "markdown": "# Building Scalable APIs\n\nLearn about microservices, GraphQL, and event-driven architectures that are powering today's most successful applications.\n\n> \"APIs are the backbone of modern software.\"\n\n[API Best Practices](https://apistylebook.com)"
+    },
+    {
+      "id": "section2",
+      "title": "Modern Patterns",
+      "markdown": "## Patterns\n\n- Microservices\n- GraphQL\n- Event-driven design\n\n:::alert\n**Note:** Choose the right pattern for your use case!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Architecture Table",
+      "markdown": "### API Architectures\n\n| Pattern        | Use Case         | Complexity |\n|---------------|------------------|------------|\n| REST          | General purpose  | Medium     |\n| GraphQL       | Flexible queries | High       |\n| Event-driven  | Async workflows  | High       |\n\n![API Diagram](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Express API\n\n```js\nconst express = require('express');\nconst app = express();\napp.get('/api', (req, res) => res.send('Hello API!'));\napp.listen(3000);\n```\n\n- [Express Docs](https://expressjs.com)\n- [Awesome APIs](https://github.com/Kikobeats/awesome-api)"
+    }
+  ]
+}

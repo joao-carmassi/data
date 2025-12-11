@@ -1,0 +1,30 @@
+{
+  "title": "Design Systems: Creating Consistency at Scale",
+  "date": "10 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg",
+    "alt": "Design system illustration"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Why Design Systems?",
+      "markdown": "# Design Systems\n\nHow leading companies are implementing design systems to maintain visual consistency across products while enabling rapid development and innovation.\n\n> \"Consistency is key to scalability.\"\n\n[Design System Examples](https://designsystemsrepo.com)"
+    },
+    {
+      "id": "section2",
+      "title": "Benefits",
+      "markdown": "## Benefits\n\n- Consistency\n- Speed\n- Innovation\n\n:::alert\n**Insight:** Design systems save time!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Component Table",
+      "markdown": "### Core Components\n\n| Component | Purpose      | Reusable |\n|-----------|-------------|----------|\n| Button    | Action      | Yes      |\n| Card      | Container   | Yes      |\n| Modal     | Dialog      | Yes      |\n\n![Design System](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Button Component\n\n```tsx\nexport const Button = ({ children }) => (\n  <button className='btn'>{children}</button>\n);\n```\n\n- [Design System Guide](https://uxdesign.cc/design-systems)\n- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)"
+    }
+  ]
+}

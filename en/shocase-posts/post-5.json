@@ -1,0 +1,30 @@
+{
+  "title": "The Rise of Edge Computing: Transforming Application Architecture",
+  "date": "5 Jan 2024",
+  "banner": {
+    "src": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-5.svg",
+    "alt": "Edge computing illustration"
+  },
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Edge Revolution",
+      "markdown": "# The Rise of Edge Computing\n\nDiscover how edge computing is revolutionizing application performance and user experience, and learn strategies for implementing edge-first architectures.\n\n> \"Edge is the new cloud.\"\n\n[Edge Computing Resources](https://edgecomputingworld.com)"
+    },
+    {
+      "id": "section2",
+      "title": "Implementation Strategies",
+      "markdown": "## Strategies\n\n- Edge-first design\n- Performance gains\n- User experience\n\n:::alert\n**Info:** Latency is key at the edge!\n:::\n"
+    },
+    {
+      "id": "section3",
+      "title": "Edge Table",
+      "markdown": "### Edge vs Cloud\n\n| Approach | Latency | Cost   |\n|----------|---------|--------|\n| Edge     | Low     | Medium |\n| Cloud    | High    | Low    |\n\n![Edge Computing](https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-5.svg)"
+    },
+    {
+      "id": "section4",
+      "title": "Sample Code & Resources",
+      "markdown": "#### Example: Edge Function\n\n```js\nexport default function handler(req, res) {\n  return res.json({ message: 'Hello from the edge!' });\n}\n```\n\n- [Vercel Edge Docs](https://vercel.com/docs/edge-network)\n- [Awesome Edge](https://github.com/MisterBooo/awesome-edge-computing)"
+    }
+  ]
+}

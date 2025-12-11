@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "note": "Metalworking estimation, quoting, and self-service platform",
+    "title": {
+      "text": "Put your estimating and ",
+      "highlight": "quoting on auto-pilot."
+    },
+    "description": "Understand, qualify, and estimate order inquiries in minutes — and deliver up to 80% of them without needing to spend time on sales or work prep.",
+    "buttons": [
+      {
+        "label": "Try it your self",
+        "href": "#",
+        "variant": "default",
+        "text": "explore the product yourself without sitting through a demo"
+      },
+      {
+        "label": "Talk to an expert",
+        "href": "#",
+        "variant": "outline",
+        "text": "a free consultation with a metalworking software expert"
+      }
+    ],
+    "video": {
+      "src": "/win.mp4",
+      "youtube": "https://www.youtube.com/embed/Iqg1DV9RrJE?si=O7Jo9KC12S_MuOaA",
+      "title": "Quotation Factory Hero Video",
+      "button": {
+        "label1": "Wim",
+        "label2": "CEO"
+      }
+    }
+  }
+}

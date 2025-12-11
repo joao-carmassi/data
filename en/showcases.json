@@ -7,7 +7,7 @@
       "summary": "Explore the latest trends in web development, from AI-powered tools to new frameworks that are reshaping how we build the web. Discover what developers need to know to stay ahead.",
       "label": "Web Development",
       "published": "15 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-1",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg"
     },
     {
@@ -16,7 +16,7 @@
       "summary": "Learn about microservices, GraphQL, and event-driven architectures that are powering today's most successful applications. Practical insights for building robust APIs.",
       "label": "Backend",
       "published": "12 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-2",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg"
     },
     {
@@ -25,7 +25,7 @@
       "summary": "How leading companies are implementing design systems to maintain visual consistency across products while enabling rapid development and innovation.",
       "label": "Design",
       "published": "10 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-3",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg"
     },
     {
@@ -34,7 +34,7 @@
       "summary": "From model versioning to monitoring and scaling, learn the essential practices for deploying machine learning models in production environments.",
       "label": "Machine Learning",
       "published": "8 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-4",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-4.svg"
     },
     {
@@ -43,7 +43,7 @@
       "summary": "Discover how edge computing is revolutionizing application performance and user experience, and learn strategies for implementing edge-first architectures.",
       "label": "Cloud Computing",
       "published": "5 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-5",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-5.svg"
     },
     {
@@ -52,7 +52,7 @@
       "summary": "Essential security practices every developer should implement, from authentication and authorization to data encryption and secure coding practices.",
       "label": "Security",
       "published": "3 Jan 2024",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-6",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-6.svg"
     },
     {
@@ -62,7 +62,7 @@
       "label": "Performance",
       "published": "1 Jan 2024",
       "href": "/showcases/showcase",
-      "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg"
+      "image": "https://post-7.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg"
     },
     {
       "id": "post-8",
@@ -70,7 +70,7 @@
       "summary": "How to foster a DevOps culture in your organization and implement CI/CD pipelines that accelerate development while maintaining quality.",
       "label": "DevOps",
       "published": "29 Dec 2023",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-8",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-2.svg"
     },
     {
@@ -79,7 +79,7 @@
       "summary": "Compare native and cross-platform development approaches, exploring the trade-offs between performance, development speed, and user experience.",
       "label": "Mobile Development",
       "published": "27 Dec 2023",
-      "href": "/showcases/showcase",
+      "href": "/showcases/post-9",
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-3.svg"
     }
   ]

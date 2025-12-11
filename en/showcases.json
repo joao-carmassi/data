@@ -56,6 +56,15 @@
       "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-6.svg"
     },
     {
+      "id": "post-7",
+      "title": "Performance Optimization: Techniques for Faster Web Applications",
+      "summary": "Advanced techniques for optimizing web application performance, including code splitting, lazy loading, and modern caching strategies.",
+      "label": "Performance",
+      "published": "1 Jan 2024",
+      "href": "/showcases/post-7",
+      "image": "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg"
+    },
+    {
       "id": "post-8",
       "title": "DevOps Culture: Building Better Software Delivery Pipelines",
       "summary": "How to foster a DevOps culture in your organization and implement CI/CD pipelines that accelerate development while maintaining quality.",
